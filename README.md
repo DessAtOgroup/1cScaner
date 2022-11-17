@@ -9,6 +9,12 @@
 
 Реализовано для интернет-магазина Hakki.ru
 Автор: ogroup.pro
+![scr](https://github.com/DessAtOgroup/1cScaner/main/readme_files/Screenshot_success fetching.png)
+![scr](https://github.com/DessAtOgroup/1cScaner/tree/main/readme_files/Screenshot_main.png)
+![scr](https://github.com/DessAtOgroup/1cScaner/tree/main/readme_files/Screenshot_error fetching.png)
+![image](https://github.com/DessAtOgroup/1cScaner/tree/main/readme_files/Screenshot_settings.png)
+
+
 
 
 
