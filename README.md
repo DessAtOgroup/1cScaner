@@ -9,10 +9,15 @@
 
 Реализовано для интернет-магазина Hakki.ru
 Автор: ogroup.pro
-![scr](https://github.com/DessAtOgroup/1cScaner/main/readme_files/Screenshot_success fetching.png)
-![scr](https://github.com/DessAtOgroup/1cScaner/tree/main/readme_files/Screenshot_main.png)
-![scr](https://github.com/DessAtOgroup/1cScaner/tree/main/readme_files/Screenshot_error fetching.png)
-![image](https://github.com/DessAtOgroup/1cScaner/tree/main/readme_files/Screenshot_settings.png)
+
+![Image](https://github.com/DessAtOgroup/1cScaner/blob/main/readme_files/Screenshot_success%20fetching.png)
+
+![scr](https://github.com/DessAtOgroup/1cScaner/blob/main/readme_files/Screenshot_main.png)
+
+![scr](https://github.com/DessAtOgroup/1cScaner/blob/main/readme_files/Screenshot_error fetching.png)
+
+![image](https://github.com/DessAtOgroup/1cScaner/blob/main/readme_files/Screenshot_settings.png)
+
 
 
 
